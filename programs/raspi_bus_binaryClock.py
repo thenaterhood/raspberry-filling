@@ -9,7 +9,7 @@ Description:
 """
 from datetime import datetime
 from time import sleep
-from raspi_bus_gpio import gpio
+from pi_crust.raspi_bus_gpio import gpio
 
 
 def main():
