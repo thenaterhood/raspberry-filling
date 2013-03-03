@@ -9,8 +9,11 @@ should be fairly self-explanatory but in case it isn't, programs are named
 with whether they are using the bus or parallel wrapper for GPIO, followed 
 by the name of the program.  So, for the bus version of the binary clock program, 
 the file is:
+
 	raspi_bus_binaryClock.py
+	
 Likewise, for the parallel version:
+
 	raspi_parallel_binaryClock.py
 	
 If you intend to convert between bus and parallel or you want to develop your own 
